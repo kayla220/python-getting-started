@@ -82,7 +82,7 @@ class VisualRecognitionV3(WatsonService):
             vcap_services_name='watson_vision_combined',
             url="https://gateway-a.watsonplatform.net/visual-recognition/api",
             api_key="5578277a486a2c548a852ad0e6a935f91f7fb9cf",
-            iam_api_key=iam_api_key,
+            iam_api_key="auto-generated-apikey-5ce9c36e-8f37-490f-9600-44ebcbfc467a",
             iam_access_token=iam_access_token,
             iam_url=iam_url,
             use_vcap_services=True)
